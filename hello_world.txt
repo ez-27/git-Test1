@@ -1,4 +1,4 @@
-<HTML>
+<HTML> // Hello World, in HTML
     <head>
         <meta charset="UTF-8">
         <title>Hello World<title>
